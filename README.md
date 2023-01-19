@@ -64,19 +64,22 @@ RegisterNumber:
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+![up](https://user-images.githubusercontent.com/121957896/213451650-1896f4f9-d047-467b-8001-674115ff4eab.png)
 
 
 
 
-
+![dc](https://user-images.githubusercontent.com/121957896/213451803-1e3a6ee9-af8a-44ae-8399-9deada875f49.png)
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 
+![up td](https://user-images.githubusercontent.com/121957896/213451838-7a80cc05-c25d-402f-b3d4-12d79a9a9639.png)
 
 
+![dc td](https://user-images.githubusercontent.com/121957896/213451866-fd781b6e-5d6c-4a86-ac4b-68a47d704c2a.png)
 
 ### TRUTH TABLE 
 
